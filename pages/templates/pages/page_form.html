@@ -1,0 +1,17 @@
+{% extends "pages/base.html" %}
+
+{% block title %}
+    {% if page %}Editar Página{% else %}Crear Página{% endif %}
+{% endblock %}
+
+{% block content %}
+  <h1>{% if page %}Editar Página{% else %}Crear Página{% endif %}</h1>
+
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit" class="btn btn-primary">
+      {% if page %}Guardar Cambios{% else %}Crear Página{% endif %}
+    </button>
+  </form>
+{% endblock %}

@@ -1,0 +1,6 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Mi perfil</h2>
+<p>Usuario: {{ request.user.username }}</p>
+<a href="{% url 'profile_edit' %}">Editar perfil</a>
+{% endblock %}

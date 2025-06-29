@@ -1,0 +1,79 @@
+venv/ : El término 'venv/' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta 
+e inténtelo de nuevo.
+En línea: 2 Carácter: 1
++ venv/
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (venv/:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+env/ : El término 'env/' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e 
+inténtelo de nuevo.
+En línea: 3 Carácter: 1
++ env/
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (env/:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+__pycache__/ : El término '__pycache__/' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha 
+ruta es correcta e inténtelo de nuevo.
+En línea: 6 Carácter: 1
++ __pycache__/
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (__pycache__/:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.py[cod] : El término '*.py[cod]' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es 
+correcta e inténtelo de nuevo.
+En línea: 7 Carácter: 1
++ *.py[cod]
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.py[cod]:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.sqlite3 : El término '*.sqlite3' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es 
+correcta e inténtelo de nuevo.
+En línea: 10 Carácter: 1
++ *.sqlite3
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.sqlite3:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.log : El término '*.log' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta 
+e inténtelo de nuevo.
+En línea: 11 Carácter: 1
++ *.log
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.log:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.env : El término '*.env' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta 
+e inténtelo de nuevo.
+En línea: 12 Carácter: 1
++ *.env
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.env:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+.vscode/ : El término '.vscode/' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es 
+correcta e inténtelo de nuevo.
+En línea: 15 Carácter: 1
++ .vscode/
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.vscode/:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+.DS_Store : El término '.DS_Store' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es 
+correcta e inténtelo de nuevo.
+En línea: 18 Carácter: 1
++ .DS_Store
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.DS_Store:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+Thumbs.db : El término 'Thumbs.db' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es 
+correcta e inténtelo de nuevo.
+En línea: 19 Carácter: 1
++ Thumbs.db
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Thumbs.db:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
